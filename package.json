@@ -1,0 +1,14 @@
+{
+  "name": "primeiro-servidor",
+  "version": "1.0.0",
+  "description": "Resolução do exer01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olivino Henrique Messias",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
